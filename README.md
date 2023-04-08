@@ -8,4 +8,4 @@ The goal of the project is to train a model to be able to classify Hand gestured
 The Dataset was acquired from the Kaggle website ()
 
 <h2> The Results </h2>
-The model architecture is clear in the *model.py* file, 
+The model was trained using the GPU in the Google Colab Platform. The model architecture is clear in the _model.py_ file, and the training parameters in the train.py file. The overall accuracy of the model on unseen data is 95%.
